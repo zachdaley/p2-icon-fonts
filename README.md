@@ -1,8 +1,10 @@
 p2-icon-fonts
 =============
 
-what?
 
-why?
 
-results
+why: why did we do this?
+
+How: process, tools
+
+results: link, share
