@@ -95,3 +95,9 @@ table {
 
   margin-top: 20px;
 }
+
+td {
+
+  width:333px;
+  text-align: center;
+}
